@@ -1,0 +1,46 @@
+{
+  "name": "medito",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@firebase/app": "^0.9.25",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@react-native-community/slider": "4.4.2",
+    "@react-native-firebase/app": "^18.7.3",
+    "@react-native-firebase/auth": "^18.7.3",
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@react-navigation/material-bottom-tabs": "^6.2.19",
+    "@react-navigation/native": "^6.1.9",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@types/react": "~18.2.14",
+    "axios": "^1.6.7",
+    "expo": "~49.0.15",
+    "expo-av": "~13.4.1",
+    "expo-file-system": "~15.4.5",
+    "expo-image-picker": "~14.3.2",
+    "expo-splash-screen": "~0.20.5",
+    "expo-status-bar": "~1.6.0",
+    "firebase": "^10.7.1",
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-paper": "^5.11.6",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-vector-icons": "^10.0.3",
+    "react-native-video": "^5.2.1",
+    "react-native-webview": "^13.7.0",
+    "react-native-youtube": "^2.0.2",
+    "react-native-youtube-iframe": "^2.3.0",
+    "react-navigation": "^5.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}

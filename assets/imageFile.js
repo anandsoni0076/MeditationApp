@@ -1,0 +1,12 @@
+export const coverPhoto = require("./img/cover.png");
+export const cover1Photo = require("./img/cover1.png");
+export const bgImg = require("./img/bg1.jpg");
+export const bgImg1 = require("./img/bgImage.jpg");
+export const bg = require("./img/bg.png");
+export const bg2 = require("./img/bg2.jpeg");
+export const bg3 = require("./img/bg3.jpeg");
+export const hill = require("./img/Hill.gif");
+export const m = require("./img/load.png");
+export const logo = require("./img/mainLogo.png");
+export const logo1 = require("./img/logo1.png");
+export const bgv = require("./img/bgv1.mp4");

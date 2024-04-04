@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Medito",
+    "slug": "Medito",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo-no-background.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logo-no-background.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/yoga-position.png",
+        "backgroundColor": "#FF585F"
+      },
+      "package": "com.acex9118.Medito"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4997fe5c-325b-4f39-aa80-d9f18528ca85"
+      }
+    }
+  }
+}
